@@ -1,0 +1,27 @@
+{
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_111",
+    "java.help.firstView": "gettingStarted",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "git.allowForcePush": true,
+    "git.autofetch": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "workbench.colorCustomizations": {
+
+        "terminal.background": "#080808"
+        "editor.background": "#070606"
+        "sideBar.background": "#070606"
+    },
+    
+    "window.zoomLevel": 0      ,
+    "workbench.iconTheme": "vscode-icons",
+   
+}
